@@ -133,5 +133,3 @@ Feel free to open issues or submit pull requests to improve the project. Please 
 For any questions or feedback, please contact [michealceaser02@gmail.com](mailto:michealceaser02@gmail.com).
 
 DEPLOYED ADDRESS:0x488Cdc396B5EdeC1c6da0Da00d1Ab2f5c9a63C03
-
-```
